@@ -8,7 +8,7 @@ For my analysis, I would be making use of their data for the first quarter of th
 ## Project Findings
 1. Members had the most rides at 70% of the total rides
 2. The most popular bike type for both riders was the classic bike
-3. Saturdays was the most popular weekday for both riders. Members used the bikes equally throughout the week with a slight increase in Wednesdays.
+3. Sundays was the most popular weekday for both riders. Members used the bikes equally throughout the week with a slight increase in Wednesdays.
    Casual riders used the bikes equally across the week but ride the most on weekends particularly on Saturdays.
 4. The month of March happen to be the busiets in the first quarter.
 ### Recommendations
